@@ -1,0 +1,1 @@
+Use Angular 2.0 and TypeScript to build many of the features we expect to find in a full-blown, data-driven application: acquiring and displaying a list of users, editing a selected user's detail, and navigating among different views of user data.
